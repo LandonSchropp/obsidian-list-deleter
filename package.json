@@ -1,7 +1,7 @@
 {
-  "name": "obsidian-task-forwarder",
+  "name": "obsidian-list-deleter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quickly delete list items in Obsidian",
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
